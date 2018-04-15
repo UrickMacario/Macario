@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="set_connector_eval_enabled.php" server="198.101.214.150/../var/www/vhosts/" local="130699891710000000" remote="130699891710000000" Dst="1" />
+<file name="trigger_memory_limit_error.php" server="198.101.214.150/../var/www/vhosts/" local="130699891720000000" remote="130699891720000000" Dst="1" />
+<file name="trigger_compile_error.php" server="198.101.214.150/../var/www/vhosts/" local="130699891710000000" remote="130699891710000000" Dst="1" />
+<file name="set_connector_auth.php" server="198.101.214.150/../var/www/vhosts/" local="130699891710000000" remote="130699891710000000" Dst="1" />
+<file name="init_default_connector.php" server="198.101.214.150/../var/www/vhosts/" local="130699891700000000" remote="130699891700000000" Dst="1" />
+<file name="init_default_handler.php" server="198.101.214.150/../var/www/vhosts/" local="130699891700000000" remote="130699891700000000" Dst="1" />
+<file name="dispatch_debug.php" server="198.101.214.150/../var/www/vhosts/" local="130699891700000000" remote="130699891700000000" Dst="1" />
+<file name="set_server_encoding.php" server="198.101.214.150/../var/www/vhosts/" local="130699891710000000" remote="130699891710000000" Dst="1" />
+<file name="trigger_exception.php" server="198.101.214.150/../var/www/vhosts/" local="130699891720000000" remote="130699891720000000" Dst="1" />
+<file name="set_connector_ssl_only.php" server="198.101.214.150/../var/www/vhosts/" local="130699891710000000" remote="130699891710000000" Dst="1" />
+<file name="set_connector_allowed_ip.php" server="198.101.214.150/../var/www/vhosts/" local="130699891700000000" remote="130699891700000000" Dst="1" />
+<file name="trigger_parse_error.php" server="198.101.214.150/../var/www/vhosts/" local="130699891720000000" remote="130699891720000000" Dst="1" />
+<file name="print.php" server="198.101.214.150/../var/www/vhosts/" local="130699891700000000" remote="130699891700000000" Dst="1" />
+<file name="trigger_max_execution_time_error.php" server="198.101.214.150/../var/www/vhosts/" local="130699891720000000" remote="130699891720000000" Dst="1" />
+<file name="trigger_not_fatal_errors.php" server="198.101.214.150/../var/www/vhosts/" local="130699891720000000" remote="130699891720000000" Dst="1" />
+<file name="set_connector_encoding.php" server="198.101.214.150/../var/www/vhosts/" local="130699891710000000" remote="130699891710000000" Dst="1" />
+<file name="trigger_fatal_error.php" server="198.101.214.150/../var/www/vhosts/" local="130699891720000000" remote="130699891720000000" Dst="1" />
+</dwsync>
